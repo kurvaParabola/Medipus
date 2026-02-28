@@ -1,0 +1,18 @@
+# --- Laravel / PHP ---
+/medipus-api/vendor/
+/medipus-api/.env
+/medipus-api/storage/*.key
+/medipus-api/public/storage
+/medipus-api/bootstrap/cache/*
+
+# --- C# / WinForms / Visual Studio ---
+/medipus-app/.vs/
+/medipus-app/*/bin/
+/medipus-app/*/obj/
+*.user
+*.suo
+*.pdb
+
+# --- OS ---
+.DS_Store
+Thumbs.db

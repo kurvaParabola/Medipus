@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|c:\\users\\acer\\documents\\tugas_kuliah\\pemrograman_lanjut\\project_uas_puskesmas\\sistem_informasi_puskesmas\\sistem_informasi_puskesmas\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\apoteker_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\apoteker_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\apoteker_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\apoteker_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\dokter_pemeriksaan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\dokter_pemeriksaan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\dokter_pemeriksaan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\dokter_pemeriksaan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\apoteker_proses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\apoteker_proses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\staff_transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\staff_transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\staff_transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\staff_transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\apoteker_proses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\apoteker_proses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\register_pasien_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\register_pasien_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\user_profile_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\user_profile_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\user_profile_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\user_profile_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\staff_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\staff_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\register_pasien_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\register_pasien_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\packages\\EPPlus.8.3.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\EPPlus.8.3.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\dokter_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\dokter_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\dokter_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\dokter_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\staff_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\staff_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\sistem_informasi_puskesmas\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{24D203E7-5D21-4E4C-9CBE-4234CE7B2839}|Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas.csproj|solutionrelative:sistem_informasi_puskesmas\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\ApiResponse.cs",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\ApiResponse.cs",
+              "ViewState": "AgIAADQBAAAAAAAAAAA7wEwBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T08:00:13.129Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Login_Form.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\Login_Form.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Login_Form.cs [Design]",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\Login_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T07:57:47Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login_Form.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Login_Form.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\Login_Form.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Login_Form.cs",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\Login_Form.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwEUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T07:57:50.885Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User_Profile_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\User_Profile_Form.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\User_Profile_Form.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\User_Profile_Form.cs [Design]",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\User_Profile_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:02:13.712Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User_Profile_Form.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\User_Profile_Form.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\User_Profile_Form.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\User_Profile_Form.cs",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\User_Profile_Form.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:58:24.847Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register_Pasien_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Register_Pasien_Form.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\Register_Pasien_Form.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Register_Pasien_Form.cs [Design]*",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\Register_Pasien_Form.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T14:59:59.1Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register_Pasien_Form.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Register_Pasien_Form.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\Register_Pasien_Form.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Register_Pasien_Form.cs*",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\Register_Pasien_Form.cs*",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAmwAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T14:07:29.439Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dokter_Pemeriksaan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Dokter_Pemeriksaan.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\Dokter_Pemeriksaan.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Dokter_Pemeriksaan.cs [Design]",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\Dokter_Pemeriksaan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T09:16:45.242Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dokter_Pemeriksaan.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Dokter_Pemeriksaan.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\Dokter_Pemeriksaan.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Dokter_Pemeriksaan.cs",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\Dokter_Pemeriksaan.cs",
+              "ViewState": "AgIAAHABAAAAAAAAAAAiwI0BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T17:39:22.013Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Apoteker_Proses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Apoteker_Proses.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\Apoteker_Proses.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Apoteker_Proses.cs [Design]",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\Apoteker_Proses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T11:04:05.871Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Apoteker_Proses.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Apoteker_Proses.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\Apoteker_Proses.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Apoteker_Proses.cs",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\Apoteker_Proses.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T13:31:26.962Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Staff_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Staff_Dashboard.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\Staff_Dashboard.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Staff_Dashboard.cs [Design]",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\Staff_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:01:44.242Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Staff_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Staff_Dashboard.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\Staff_Dashboard.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Staff_Dashboard.cs",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\Staff_Dashboard.cs",
+              "ViewState": "AgIAAK0BAAAAAAAAAAAqwLEBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:43:53.001Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dokter_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Dokter_Dashboard.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\Dokter_Dashboard.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Dokter_Dashboard.cs [Design]",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\Dokter_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:43:29.875Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dokter_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Dokter_Dashboard.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\Dokter_Dashboard.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Dokter_Dashboard.cs",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\Dokter_Dashboard.cs",
+              "ViewState": "AgIAAIgBAAAAAAAAAAAswJkBAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:41:33.595Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Apoteker_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Apoteker_Dashboard.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\Apoteker_Dashboard.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Apoteker_Dashboard.cs [Design]",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\Apoteker_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:01:37.938Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Apoteker_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Apoteker_Dashboard.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\Apoteker_Dashboard.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Apoteker_Dashboard.cs",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\Apoteker_Dashboard.cs",
+              "ViewState": "AgIAAG8DAAAAAAAAAAAqwJ8DAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T15:51:19.007Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Staff_Transaksi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Staff_Transaksi.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\Staff_Transaksi.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Staff_Transaksi.cs [Design]",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\Staff_Transaksi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:39:57.568Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Staff_Transaksi.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Staff_Transaksi.cs",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\Staff_Transaksi.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\Staff_Transaksi.cs",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\Staff_Transaksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:07:09.396Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\packages\\EPPlus.8.3.1\\readme.txt",
+              "RelativeDocumentMoniker": "packages\\EPPlus.8.3.1\\readme.txt",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\packages\\EPPlus.8.3.1\\readme.txt",
+              "RelativeToolTip": "packages\\EPPlus.8.3.1\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-28T19:46:32.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\App.config",
+              "RelativeDocumentMoniker": "Sistem_Informasi_Puskesmas\\App.config",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Tugas_Kuliah\\Pemrograman_Lanjut\\Project_UAS_Puskesmas\\Sistem_Informasi_Puskesmas\\Sistem_Informasi_Puskesmas\\App.config",
+              "RelativeToolTip": "Sistem_Informasi_Puskesmas\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-28T19:39:57.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
